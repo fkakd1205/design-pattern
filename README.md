@@ -8,7 +8,7 @@
 
 ## [Java Design Pattern]
 
-### 1. Iterator
+### 1. [Iterator](./Iterator)
 ### 2. Adapter
 ### 3. Factory Method
 ### 4. Prototype

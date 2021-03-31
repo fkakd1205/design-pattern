@@ -23,7 +23,12 @@
 <br />
 
 ### Class UML Diagram
+![Iterator_UML](https://user-images.githubusercontent.com/35367660/113180364-9f8f2500-928b-11eb-9d94-f88b78437edd.PNG)
 
+* Iterator(반복자) 인터페이스 - 원소를 하나씩 끄집어낼 때 사용할 공통된 메소드를 선언.
+* ConcreteIterator(구체적인 반복자) 클래스 - Iterator 인터페이스를 구현.
+* Aggregate(집합체) 인터페이스 - Iterator를 만들어냄.
+* ConcreteAggregate(구체적인 집합체) 클래스 - Aggregate 인터페이스를 구현, ConcreteIterator(구체적인 반복자) 객체를 생성.
 <br />
 
 ### 참고 자료

@@ -5,7 +5,7 @@
 ### 내용 정리
 <pre><code>
   for(int i = 0; i < array.length; i++){ 
-            ...
+       System.out.println(array[i]);
   }
 </code></pre>
 보통 순서대로 처리하는 일을 처리할 때 위와 같이 for문을 사용한다.

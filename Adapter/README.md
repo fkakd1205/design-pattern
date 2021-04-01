@@ -21,6 +21,7 @@
 ### 실습
 * [예제1](./Adapter_Sample1) - 제공되어 있는 Banner 클래스를 상속하여, 필요로 하는 Print 인터페이스를 구현하는 프로그램. 클래스에 의한 Adapter 패턴(상속)
 * [예제2](./Adapter_Sample2) - 예제1과 동일한 프로그램. 인스턴스에 의한 Adapter 패턴(위임)
+* [문제](./Adapter_A2) - java.util.Properties 클래스에 property의 집합을 파일에 보존하는 FileProperties클래스 구현. 클래스에 의한 Adapter 패턴(상속)
 
 <br />
 

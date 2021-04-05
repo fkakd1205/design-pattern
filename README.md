@@ -10,16 +10,17 @@
 
 ### 1. [Iterator](./Iterator)
 ### 2. [Adapter](./Adapter)
-### 3. Factory Method
-### 4. Prototype
-### 5. Strategy
-### 6. Composite
-### 7. Decorator
-### 8. Visitor
-### 9. Observe
-### 10. State
-### 11. Proxy
-### 12. Command
+### 3. [Template Method](./TemplateMethod)
+### 4. Factory Method
+### 5. Prototype
+### 6. Strategy
+### 7. Composite
+### 8. Decorator
+### 9. Visitor
+### 10. Observe
+### 11. State
+### 12. Proxy
+### 13. Command
 <br />
 
 ## 참고자료

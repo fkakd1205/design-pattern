@@ -11,7 +11,7 @@
 ### 1. [Iterator](./Iterator)
 ### 2. [Adapter](./Adapter)
 ### 3. [Template Method](./TemplateMethod)
-### 4. Factory Method
+### 4. [Factory Method](./FactoryMethod)
 ### 5. Prototype
 ### 6. Strategy
 ### 7. Composite

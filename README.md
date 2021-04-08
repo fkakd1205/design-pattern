@@ -12,15 +12,11 @@
 ### 2. [Adapter](./Adapter)
 ### 3. [Template Method](./TemplateMethod)
 ### 4. [Factory Method](./FactoryMethod)
-### 5. Prototype
-### 6. Strategy
-### 7. Composite
-### 8. Decorator
-### 9. Visitor
-### 10. Observe
-### 11. State
-### 12. Proxy
-### 13. Command
+### 5. Singleton
+### 6. Prototype
+### 7. Bridge
+### 8. Strategy
+### 9. Composite
 <br />
 
 ## 참고자료

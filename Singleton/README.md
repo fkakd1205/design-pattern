@@ -35,7 +35,7 @@ singleton는 '요소를 1개밖에 가지고 있지 않은 집합'을 의미
 ### Class UML Diagram
 ![Singleton_UML](https://user-images.githubusercontent.com/35367660/114137397-1771e500-9947-11eb-9886-a600e3107909.PNG)
 
-* Singleton 클래스 - 인스턴스가 하나만 존재하는 클래스. 유일한 인스턴스를 얻기 위한 static 메소드를 가지고 언제나 동일한 인스턴스를 반환한다.
+* Singleton 클래스 - 인스턴스가 하나만 존재하는 클래스. 유일한 인스턴스를 얻기 위한 static 메소드를 가지고 언제나 동일한 인스턴스를 반환한다. (private static 멤버, private 생성자, public static 메소드)
 
 <br />
 

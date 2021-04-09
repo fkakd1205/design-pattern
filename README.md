@@ -12,7 +12,7 @@
 ### 2. [Adapter](./Adapter)
 ### 3. [Template Method](./TemplateMethod)
 ### 4. [Factory Method](./FactoryMethod)
-### 5. Singleton
+### 5. [Singleton](./Singleton)
 ### 6. Prototype
 ### 7. Bridge
 ### 8. Strategy

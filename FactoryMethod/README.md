@@ -23,15 +23,11 @@ TemplateMethod를 변형한 패턴.
 <br />
 
 ### Class UML Diagram
-* FactoryMethod 기본 UML
+* FactoryMethod 기본 UML    
+<img src="https://user-images.githubusercontent.com/35367660/114259163-0ab4c600-9a07-11eb-87bf-844cacd77c2a.PNG" width="500">
 
-
-![FactoryMethod_UML](https://user-images.githubusercontent.com/35367660/113965817-0a7ec400-9869-11eb-80af-bdc9ce863c29.PNG)
-
-* 예제(FactoryMethod_Sample) UML (Factory가 Product를, IDCardFactory가 IDCard를 Creates)
-
-
-![FactoryMethod_Sample_UML](https://user-images.githubusercontent.com/35367660/113965833-0fdc0e80-9869-11eb-8479-c552fa30b9c4.PNG)
+* 예제(FactoryMethod_Sample) UML (Factory가 Product를, IDCardFactory가 IDCard를 Creates)    
+<img src="https://user-images.githubusercontent.com/35367660/113965833-0fdc0e80-9869-11eb-8479-c552fa30b9c4.PNG" width="500">    
 
 * Product(제품) 클래스 - 생성된 제품(인스턴스)이 가지고 있어야 할 인터페이스(API)를 결정하는 추상 클래스.
 * Creator(= Factory)(생산자) 클래스 - Product 클래스를 생성하는 추상 클래스. Creator는 실제 제품을 생성하는 일을 하는 ConcreteCreator역할에 대해서는 아무것도 모름.

@@ -15,20 +15,16 @@
 <br />
 
 ### 실습
-* [예제](./Template_Sample) - 상위 클래스(추상 클래스) AbstractDisplay에서 추상 메소드인 open, print, close를 사용하여 TemplateMethod인 display를 정의.
+* [예제](./TemplateMethod_Sample) - 상위 클래스(추상 클래스) AbstractDisplay에서 추상 메소드인 open, print, close를 사용하여 TemplateMethod인 display를 정의.
 하위 클래스는 open, print, close를 구현. 동일한 동작으로 문자열을 표시하는 프로그램.
 
 <br />
 
 ### Class UML Diagram
-* Template 기본 UML
+* TemplateMethod 기본 UML   
+<img src="https://user-images.githubusercontent.com/35367660/114259643-6896dd00-9a0a-11eb-9741-2f20604c4202.PNG" width="700">
 
-
-![TemplateMethod_UML](https://user-images.githubusercontent.com/35367660/113528224-f170db80-95fa-11eb-9af5-6338ecc400bc.PNG)
-
-* 예제(Template_Sample) UML
-
-
+* 예제(TemplateMethod_Sample) UML   
 ![TemplateMethod_Sample_UML](https://user-images.githubusercontent.com/35367660/113528312-2b41e200-95fb-11eb-9d1d-6b0ff9bf1b2f.PNG)
 
 * AbstractClass(추상 클래스) - 템플릿 메소드를 구현하는 역할. 또한 그 템플릿 메소드에서 사용하고 있는 추상 메소드를 선언.

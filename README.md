@@ -13,7 +13,7 @@
 ### 3. [Template Method](./TemplateMethod)
 ### 4. [Factory Method](./FactoryMethod)
 ### 5. [Singleton](./Singleton)
-### 6. Prototype
+### 6. [Prototype](./Prototype)
 ### 7. Bridge
 ### 8. Strategy
 ### 9. Composite

@@ -24,7 +24,7 @@ TemplateMethod를 변형한 패턴.
 
 ### Class UML Diagram
 * FactoryMethod 기본 UML    
-<img src="https://user-images.githubusercontent.com/35367660/114259163-0ab4c600-9a07-11eb-87bf-844cacd77c2a.PNG" width="500">
+<img src="https://user-images.githubusercontent.com/35367660/114259621-39806b80-9a0a-11eb-8a40-2c2d702eb5f0.PNG" width="500">
 
 * 예제(FactoryMethod_Sample) UML (Factory가 Product를, IDCardFactory가 IDCard를 Creates)    
 <img src="https://user-images.githubusercontent.com/35367660/113965833-0fdc0e80-9869-11eb-8479-c552fa30b9c4.PNG" width="500">    

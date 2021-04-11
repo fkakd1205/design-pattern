@@ -14,7 +14,7 @@
 ### 4. [Factory Method](./FactoryMethod)
 ### 5. [Singleton](./Singleton)
 ### 6. [Prototype](./Prototype)
-### 7. Bridge
+### 7. [Bridge](./Bridge)
 ### 8. Strategy
 ### 9. Composite
 <br />

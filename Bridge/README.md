@@ -30,7 +30,7 @@ ConcreteImplementor 역할로 윈도우판, 맥킨토시판, 유닉스판의 세
 <br />
 
 ### Class UML Diagram
-<img src="https://user-images.githubusercontent.com/35367660/114293611-947d9580-9ad2-11eb-9a6a-166279121d5a.PNG" width="500">
+<img src="https://user-images.githubusercontent.com/35367660/117101187-96c0d000-adb0-11eb-942a-0d014b11feb3.png" width="400">
 impl 필드 - '기능의 클래스 계층'과 '구현의 클래스 계층'사이에서 '다리' 역할을 하는 필드
 <br />
 <br />

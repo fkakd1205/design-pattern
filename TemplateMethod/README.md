@@ -22,7 +22,7 @@
 
 ### Class UML Diagram
 * TemplateMethod 기본 UML   
-<img src="https://user-images.githubusercontent.com/35367660/114259643-6896dd00-9a0a-11eb-9741-2f20604c4202.PNG" width="700">
+<img src="https://user-images.githubusercontent.com/35367660/117100296-53656200-adae-11eb-8513-975dce74394f.png" width="550">
 
 * 예제(TemplateMethod_Sample) UML   
 ![TemplateMethod_Sample_UML](https://user-images.githubusercontent.com/35367660/113528312-2b41e200-95fb-11eb-9d1d-6b0ff9bf1b2f.PNG)

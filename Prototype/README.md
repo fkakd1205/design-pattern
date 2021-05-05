@@ -31,7 +31,7 @@ Prototype은 원형, 규범의 의미로, 여기서 '원형이 되는 인스턴�
 
 ### Class UML Diagram
 * Prototype 예제기본 UML  
-![Prototype_UML](https://user-images.githubusercontent.com/35367660/114257342-4dbc6c80-99fa-11eb-9038-da097338e9f5.PNG)
+<img src="https://user-images.githubusercontent.com/35367660/117100974-1e5a0f00-adb0-11eb-934f-d400e64d8696.png" width="420">
 
 * 예제(Prototype_Sample) UML (Manager가 Product를 uses)  
 ![Prototype_Sample_UML](https://user-images.githubusercontent.com/35367660/114257236-69734300-99f9-11eb-817e-493922280ab4.PNG)

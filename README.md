@@ -15,7 +15,7 @@
 ### 5. [Singleton](./Singleton)
 ### 6. [Prototype](./Prototype)
 ### 7. [Bridge](./Bridge)
-### 8. Strategy
+### 8. [Strategy](./Strategy)
 ### 9. Composite
 <br />
 

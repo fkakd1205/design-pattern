@@ -27,10 +27,10 @@
 
 ### Class UML Diagram
 * 클래스에 의한 Adapter 패턴 (상속 사용)
-![Adapter Pattern1](https://user-images.githubusercontent.com/35367660/117099872-47c56b80-adad-11eb-9bf9-245537eb0b76.png)
+<img src="https://user-images.githubusercontent.com/35367660/117099872-47c56b80-adad-11eb-9bf9-245537eb0b76.png" width="500">
 
 * 인스턴스에 의한 Adapter 패턴 (위임 사용)
-![Adapter Pattern2](https://user-images.githubusercontent.com/35367660/117099874-485e0200-adad-11eb-8b6d-df922732d644.png)
+<img src="https://user-images.githubusercontent.com/35367660/117099874-485e0200-adad-11eb-8b6d-df922732d644.png" width="500">
 
 * Target(대상) 인터페이스 or 클래스 - 필요한 메소드를 제공(선언)하는 역할.
 * Client(의뢰자) 클래스 - Target 역할의 메소도를 사용해서 일을 하는 역할. (= Main Class)

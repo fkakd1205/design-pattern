@@ -16,7 +16,7 @@
 ### 6. [Prototype](./Prototype)
 ### 7. [Bridge](./Bridge)
 ### 8. [Strategy](./Strategy)
-### 9. Composite
+### 9. [Composite](./Composite)
 <br />
 
 ## 참고자료

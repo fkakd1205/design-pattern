@@ -16,7 +16,7 @@ public class Directory extends Entry {
     
     public int getSize() {                            // 크기를 얻는다
         int size = 0;
-        Iterator it = directory.iterator();
+        Iterator<Entry> it = directory.iterator();
         while (it.hasNext()) {
             Entry entry = (Entry)it.next();
             size += entry.getSize();
@@ -31,7 +31,7 @@ public class Directory extends Entry {
     
     protected void printList(String prefix) {           // 엔트리의 일람
         System.out.println(prefix + "/" + this);
-        Iterator it = directory.iterator();
+        Iterator<Entry> it = directory.iterator();
         while (it.hasNext()) {
             Entry entry = (Entry)it.next();
             entry.printList(prefix + "/" + name);

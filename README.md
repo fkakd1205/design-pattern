@@ -17,13 +17,13 @@
 ### 7. [Bridge](./Bridge)
 ### 8. [Strategy](./Strategy)
 ### 9. [Composite](./Composite)
-### 10. [Decorator]
-### 11. [Visitor]
-### 12. [Facade]
-### 13. [Observer]
-### 14. [State]
-### 15. [Proxy]
-### 16. [Command]
+### 10. Decorator
+### 11. Visitor
+### 12. Facade
+### 13. Observer
+### 14. State
+### 15. Proxy
+### 16. Command
 <br />
 
 ## 참고자료

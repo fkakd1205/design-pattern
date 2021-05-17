@@ -17,7 +17,7 @@
 ### 7. [Bridge](./Bridge)
 ### 8. [Strategy](./Strategy)
 ### 9. [Composite](./Composite)
-### 10. Decorator
+### 10. [Decorator](./Decorator)
 ### 11. Visitor
 ### 12. Facade
 ### 13. Observer

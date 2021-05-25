@@ -45,3 +45,9 @@ Visitor패턴에서는 데이터 구조와 처리를 분리.
 * [The Open-Closed Principle(OCP)](https://ko.wikipedia.org/wiki/%EA%B0%9C%EB%B0%A9-%ED%8F%90%EC%87%84_%EC%9B%90%EC%B9%99) - 확장에 대해서는 열고, 수정에 대해서는 닫는다. ('객체 지향 프로그래밍'의 핵심 원칙)
     1. 확장에 대해서는 열려있다. - 클래스를 설계할 때, 특별한 이유가 없는한 장래의 확장을 허락. 변경에 맞게 새로운 동작을 추가하여 모듈을 확장할 수 있다.
     2. 수정에 대해서는 닫혀있다. - 확장을 하더라도 기존의 클래스는 수정할 필요가 없어야 한다.
+<pre><code>
+  class MyString extends String{        // 컴파일 에러 남
+        ...
+  }
+</code></pre>
+* String클래스는 확장에 관한 The Open-Closed Principle을 위반하고 있지만, 사실은 위반할만한 정당한 이유가 있다. why? Java 언어처리계는 Stirng클래스가 확장되지 않는다는 전제아래 처리 속도에 관한 최적화 및 메모리 양에 관한 최적화를 실행하기 때문.

@@ -18,7 +18,7 @@
 ### 8. [Strategy](./Strategy)
 ### 9. [Composite](./Composite)
 ### 10. [Decorator](./Decorator)
-### 11. Visitor
+### 11. [Visitor](./Visitor)
 ### 12. Facade
 ### 13. Observer
 ### 14. State

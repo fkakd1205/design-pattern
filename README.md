@@ -19,7 +19,7 @@
 ### 9. [Composite](./Composite)
 ### 10. [Decorator](./Decorator)
 ### 11. [Visitor](./Visitor)
-### 12. Facade
+### 12. [Facade](./Facade)
 ### 13. Observer
 ### 14. State
 ### 15. Proxy

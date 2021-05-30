@@ -22,7 +22,7 @@
 ### 12. [Facade](./Facade)
 ### 13. [Observer](./Observer)
 ### 14. [State](./State)
-### 15. Proxy
+### 15. [Proxy](./Proxy)
 ### 16. Command
 <br />
 

@@ -23,7 +23,7 @@
 ### 13. [Observer](./Observer)
 ### 14. [State](./State)
 ### 15. [Proxy](./Proxy)
-### 16. Command
+### 16. [Command](./Command)
 <br />
 
 ## 참고자료
